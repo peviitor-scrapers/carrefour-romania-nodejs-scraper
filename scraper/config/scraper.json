@@ -1,0 +1,20 @@
+{
+  "userAgent": "job_seeker_ro_spider",
+  "requestTimeoutMs": 10000,
+  "pageDelayMs": 1000,
+  "staleJobDeletion": false,
+  "manageCompany": true,
+  "defaultLocation": ["Bucuresti"],
+  "defaultWorkmode": "on-site",
+  "ownJobUrlPrefix": "https://carrefour.ro/corporate/cariere/detalii/",
+  "sources": {
+    "sitemap": "",
+    "listing": "https://carrefour.ro/corporate/cariere/cauta",
+    "jobArchive": "https://carrefour.ro/corporate/cariere/detalii/"
+  },
+  "selectors": {
+    "jobArticle": [".opening", "[class*='job']", ".vacancy, .position, .listing-item"],
+    "jobTitle": ["h2", "h1, h2, h3, h4", "[itemprop='title'], [aria-label]", "a"],
+    "jobMeta": [".location", "p, .meta, [class*='deadline']"]
+  }
+}

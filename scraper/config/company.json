@@ -1,0 +1,10 @@
+{
+  "id": "11588780",
+  "company": "CARREFOUR ROMANIA SA",
+  "brand": "Carrefour",
+  "status": "activ",
+  "location": ["Bucuresti"],
+  "website": ["https://carrefour.ro"],
+  "career": ["https://carrefour.ro/corporate/cariere/cauta"],
+  "scraperFile": "https://github.com/peviitor-scrapers/carrefour-romania-nodejs-scraper/actions/workflows/scrape.yml"
+}
