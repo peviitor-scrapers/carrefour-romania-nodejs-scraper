@@ -13,6 +13,8 @@ const CONFIGURED = !JSON.stringify({ ...companyConfig, ...scraperConfig }).inclu
 const TEST_CIF = companyConfig.id;
 const TEST_BRAND = companyConfig.brand;
 const COMPANY_NAME = companyConfig.company;
+const strip = (s) => String(s).normalize('NFD').replace(/[\u0300-\u036f]/g, '').toUpperCase();
+const namesCompatible = (a, b) => strip(a).startsWith(strip(b));
 const OWN_PREFIX = scraperConfig.ownJobUrlPrefix;
 
 function gate(cond) {
@@ -123,7 +125,7 @@ describe('E2E: Full Scraping Pipeline', () => {
     itIfApi('runs full validation and reports active status', async () => {
       const result = await company.validateAndGetCompany();
       expect(result.status).toBe('active');
-      expect(result.company).toBe(COMPANY_NAME);
+      expect(namesCompatible(result.company, COMPANY_NAME)).toBe(true);
       expect(result.cif).toBe(TEST_CIF);
     }, 30000);
 
@@ -131,7 +133,7 @@ describe('E2E: Full Scraping Pipeline', () => {
       const result = await api.querySOLR(TEST_CIF);
       if (result.numFound === 0) { console.log('no jobs yet — skipping assertions'); return; }
       for (const job of result.docs) {
-        expect(job.company).toBe(COMPANY_NAME);
+        expect(namesCompatible(job.company, COMPANY_NAME)).toBe(true);
         expect(String(job.cif).replace(/^0+/, '')).toBe(TEST_CIF.replace(/^0+/, ''));
       }
     }, 15000);

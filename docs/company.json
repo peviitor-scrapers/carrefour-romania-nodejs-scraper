@@ -3,9 +3,15 @@
   "company": "CARREFOUR ROMANIA SA",
   "brand": "Carrefour",
   "status": "activ",
-  "location": ["Bucuresti"],
-  "website": ["https://carrefour.ro"],
-  "career": ["https://carrefour.ro/corporate/cariere/cauta"],
+  "location": [
+    "Bucuresti"
+  ],
+  "website": [
+    "https://carrefour.ro"
+  ],
+  "career": [
+    "https://carrefour.ro/corporate/cariere/cauta"
+  ],
   "scraperFile": "https://github.com/peviitor-scrapers/carrefour-romania-nodejs-scraper/actions/workflows/scrape.yml",
   "ownJobUrlPrefix": "https://carrefour.ro/corporate/cariere/detalii/"
 }

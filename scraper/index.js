@@ -266,6 +266,56 @@ function locationFromTitle(title) {
   return hit ? [hit] : scraperConfig.defaultLocation;
 }
 
+// ---------------------------------------------------------------------------
+// Carrefour: paginated server-rendered cards (/cariere/cauta?page=N), one .opening per job.
+// The date on the card is the PUBLICATION date, never a deadline.
+// ---------------------------------------------------------------------------
+const stripDia = (t) => String(t).normalize("NFD").replace(/[\u0300-\u036f]/g, "").toLowerCase();
+const CARREFOUR_CITIES = [
+  "Bucuresti", "Cluj-Napoca", "Cluj", "Iasi", "Timisoara", "Brasov", "Constanta", "Craiova", "Sibiu", "Oradea",
+  "Ploiesti", "Pitesti", "Galati", "Bacau", "Arad", "Targu Mures", "Baia Mare", "Suceava", "Satu Mare",
+  "Botosani", "Buzau", "Focsani", "Ramnicu Valcea", "Alba Iulia", "Deva", "Hunedoara", "Slatina", "Tulcea",
+  "Targoviste", "Piatra Neamt", "Bistrita", "Zalau", "Resita", "Giurgiu", "Braila", "Targu Jiu", "Vaslui",
+  "Alexandria", "Calarasi", "Slobozia", "Sfantu Gheorghe", "Miercurea Ciuc", "Drobeta-Turnu Severin", "Medgidia",
+  "Mioveni", "Roman", "Barlad", "Onesti", "Turda", "Mediasi", "Petrosani", "Lugoj", "Orastie", "Voluntari", "Popesti-Leordeni", "Chitila"
+];
+
+function carrefourCity(store) {
+  const hay = stripDia(store);
+  const hit = CARREFOUR_CITIES.find((c) => new RegExp(`\\b${stripDia(c)}\\b`).test(hay));
+  return hit ? [hit === "Cluj" ? "Cluj-Napoca" : hit] : null;
+}
+
+function parseCarrefourCards(html) {
+  const items = [];
+  const re = /<div class="[^"]*\bopening\b[^"]*">\s*<a href="([^"]*\/cariere\/detalii\/\d+)"([\s\S]*?)<\/a>/g;
+  for (const m of html.matchAll(re)) {
+    const body = m[2];
+    const title = cleanTitle((body.match(/<h2[^>]*>([\s\S]*?)<\/h2>/) || [])[1]);
+    if (!title) continue;
+    const store = cleanTitle((body.match(/class="location"[^>]*>([\s\S]*?)<\/div>/) || [])[1]) || "";
+    items.push({ title, url: m[1], expirationdate: undefined, location: carrefourCity(store) || undefined });
+  }
+  return items;
+}
+
+async function fetchCarrefourListing() {
+  const base = scraperConfig.sources.listing;
+  const all = [];
+  const seen = new Set();
+  for (let p = 1; p <= 30; p++) {
+    const res = await fetch(`${base}?page=${p}`, { timeout: TIMEOUT, headers: { "User-Agent": userAgent } });
+    if (!res.ok) throw new Error(`listing page ${p} returned ${res.status}`);
+    const items = parseCarrefourCards(await res.text());
+    const fresh = items.filter((it) => !seen.has(it.url));
+    if (fresh.length === 0) break; // past the last page (or the site repeats page 1)
+    for (const it of fresh) { seen.add(it.url); all.push(it); }
+    await sleep(PAGE_DELAY);
+  }
+  console.log(`  Carrefour listing: ${all.length} cards`);
+  return all;
+}
+
 async function scrapeCareers() {
   console.log(`Scraping ${scraperConfig.sources.listing} ...`);
   const jobs = [];
@@ -275,7 +325,7 @@ async function scrapeCareers() {
 
   let listingItems = [];
   try {
-    listingItems = parseListing(await fetchListing());
+    listingItems = await fetchCarrefourListing();
     console.log(`  Listing: ${listingItems.length} open positions`);
   } catch (err) {
     console.log(`  Listing error: ${err.message}`);
@@ -337,7 +387,7 @@ async function scrapeCareers() {
       jobs.push({
         url,
         title: item.title,
-        location: locationFromTitle(item.title),
+        location: item.location || locationFromTitle(item.title),
         workmode: scraperConfig.defaultWorkmode,
         expirationdate: item.expirationdate,
         source: CAREERS_SOURCE
@@ -541,7 +591,8 @@ async function main(dryRun = process.argv.includes("--dry-run")) {
 
     console.log("=== Step 2: Validate company via ANAF ===");
     const { company, cif, address, status } = await validateAndGetCompany(dryRun);
-    COMPANY_NAME = company;
+    // Pin the job-side company name to the spelling peViitor already indexes for this CIF (config).
+    COMPANY_NAME = companyConfig.company || company;
     if (status === 'inactive') {
       if (dryRun) {
         console.log(`Company is INACTIVE — dry-run, so NOT deleting our ${ownExistingUrls.size} job(s) (would delete on a real run; validateAndGetCompany already skipped the CIF-wide delete)`);
@@ -727,7 +778,7 @@ async function main(dryRun = process.argv.includes("--dry-run")) {
   }
 }
 
-export { mapToJobModel, transformJobsForSOLR, scrapeCareers, fetchSitemapJobUrls, parseListing, slugify, matchSitemapUrl, matchSitemapUrlExact, parseDeadline, dropDeadUrls };
+export { parseCarrefourCards, carrefourCity, mapToJobModel, transformJobsForSOLR, scrapeCareers, fetchSitemapJobUrls, parseListing, slugify, matchSitemapUrl, matchSitemapUrlExact, parseDeadline, dropDeadUrls };
 
 if (process.argv[1] === fileURLToPath(import.meta.url)) {
   main();
