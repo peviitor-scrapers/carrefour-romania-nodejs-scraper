@@ -10,11 +10,11 @@
 | Location | MUNICIPIUL BUCUREŞTI, SECTOR 2, STR GARA HERĂSTRĂU, NR.4C, GREEN COURT BUCHAREST. CLADIREA B, ET.4-7 |
 | Website | [https://carrefour.ro](https://carrefour.ro) |
 | Careers | [https://carrefour.ro/corporate/cariere/cauta](https://carrefour.ro/corporate/cariere/cauta) |
-| Last Scraped | 2026-10-14 |
+| Last Scraped | 2026-10-15 |
 
-## Current Job Listings (66)
+## Current Job Listings (68)
 
-_Generated: 2026-10-14T10:48:14.111Z_
+_Generated: 2026-10-15T10:31:22.817Z_
 
 ### Lucrator Universal Market
 
@@ -303,11 +303,16 @@ _Generated: 2026-10-14T10:48:14.111Z_
 - **Location:** Bucuresti
 - **Status:** scraped
 
-### Casier Comercial Hiper
+### MANIPULANT MARFURI
 
-- **URL:** [https://carrefour.ro/corporate/cariere/detalii/6808](https://carrefour.ro/corporate/cariere/detalii/6808)
-- **Work Mode:** on-site
-- **Location:** Sibiu
+- **URL:** [https://mediere.anofm.ro/app/module/mediere/job/3418831](https://mediere.anofm.ro/app/module/mediere/job/3418831)
+- **Location:** România
+- **Status:** scraped
+
+### BUCATAR
+
+- **URL:** [https://mediere.anofm.ro/app/module/mediere/job/3418819](https://mediere.anofm.ro/app/module/mediere/job/3418819)
+- **Location:** România
 - **Status:** scraped
 
 ### CASIER
@@ -320,6 +325,12 @@ _Generated: 2026-10-14T10:48:14.111Z_
 
 - **URL:** [https://mediere.anofm.ro/app/module/mediere/job/3413791](https://mediere.anofm.ro/app/module/mediere/job/3413791)
 - **Location:** România
+- **Status:** scraped
+
+### MANIPULANT MARFURI
+
+- **URL:** [https://mediere.anofm.ro/app/module/mediere/job/3411365](https://mediere.anofm.ro/app/module/mediere/job/3411365)
+- **Location:** CLUJ-NAPOCA
 - **Status:** scraped
 
 ### MANIPULANT MARFURI
