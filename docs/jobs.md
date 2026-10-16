@@ -10,11 +10,32 @@
 | Location | MUNICIPIUL BUCUREŞTI, SECTOR 2, STR GARA HERĂSTRĂU, NR.4C, GREEN COURT BUCHAREST. CLADIREA B, ET.4-7 |
 | Website | [https://carrefour.ro](https://carrefour.ro) |
 | Careers | [https://carrefour.ro/corporate/cariere/cauta](https://carrefour.ro/corporate/cariere/cauta) |
-| Last Scraped | 2026-10-15 |
+| Last Scraped | 2026-10-16 |
 
 ## Current Job Listings (68)
 
-_Generated: 2026-10-15T10:31:22.817Z_
+_Generated: 2026-10-16T10:18:40.443Z_
+
+### Bucatar Hipermarket
+
+- **URL:** [https://carrefour.ro/corporate/cariere/detalii/6878](https://carrefour.ro/corporate/cariere/detalii/6878)
+- **Work Mode:** on-site
+- **Location:** Bucuresti
+- **Status:** scraped
+
+### Casier Comercial Hiper
+
+- **URL:** [https://carrefour.ro/corporate/cariere/detalii/6879](https://carrefour.ro/corporate/cariere/detalii/6879)
+- **Work Mode:** on-site
+- **Location:** Sibiu
+- **Status:** scraped
+
+### Casier Comercial Express
+
+- **URL:** [https://carrefour.ro/corporate/cariere/detalii/6880](https://carrefour.ro/corporate/cariere/detalii/6880)
+- **Work Mode:** on-site
+- **Location:** Bucuresti
+- **Status:** scraped
 
 ### Lucrator Universal Market
 
@@ -305,6 +326,12 @@ _Generated: 2026-10-15T10:31:22.817Z_
 
 ### MANIPULANT MARFURI
 
+- **URL:** [https://mediere.anofm.ro/app/module/mediere/job/3419801](https://mediere.anofm.ro/app/module/mediere/job/3419801)
+- **Location:** România
+- **Status:** scraped
+
+### MANIPULANT MARFURI
+
 - **URL:** [https://mediere.anofm.ro/app/module/mediere/job/3418831](https://mediere.anofm.ro/app/module/mediere/job/3418831)
 - **Location:** România
 - **Status:** scraped
@@ -343,12 +370,6 @@ _Generated: 2026-10-15T10:31:22.817Z_
 
 - **URL:** [https://mediere.anofm.ro/app/module/mediere/job/3410451](https://mediere.anofm.ro/app/module/mediere/job/3410451)
 - **Location:** România
-- **Status:** scraped
-
-### MANIPULANT MARFURI
-
-- **URL:** [https://mediere.anofm.ro/app/module/mediere/job/3410293](https://mediere.anofm.ro/app/module/mediere/job/3410293)
-- **Location:** BRASOV
 - **Status:** scraped
 
 ### MANIPULANT MARFURI
@@ -403,24 +424,6 @@ _Generated: 2026-10-15T10:31:22.817Z_
 
 - **URL:** [https://mediere.anofm.ro/app/module/mediere/job/3397848](https://mediere.anofm.ro/app/module/mediere/job/3397848)
 - **Location:** BAIA MARE
-- **Status:** scraped
-
-### MANIPULANT MARFURI
-
-- **URL:** [https://mediere.anofm.ro/app/module/mediere/job/3397235](https://mediere.anofm.ro/app/module/mediere/job/3397235)
-- **Location:** România
-- **Status:** scraped
-
-### SORTATOR PRODUSE
-
-- **URL:** [https://mediere.anofm.ro/app/module/mediere/job/3397106](https://mediere.anofm.ro/app/module/mediere/job/3397106)
-- **Location:** BRASOV
-- **Status:** scraped
-
-### MANIPULANT MARFURI
-
-- **URL:** [https://mediere.anofm.ro/app/module/mediere/job/3397095](https://mediere.anofm.ro/app/module/mediere/job/3397095)
-- **Location:** BRASOV
 - **Status:** scraped
 
 ### BUCATAR
