@@ -10,11 +10,11 @@
 | Location | MUNICIPIUL BUCUREŞTI, SECTOR 2, STR GARA HERĂSTRĂU, NR.4C, GREEN COURT BUCHAREST. CLADIREA B, ET.4-7 |
 | Website | [https://carrefour.ro](https://carrefour.ro) |
 | Careers | [https://carrefour.ro/corporate/cariere/cauta](https://carrefour.ro/corporate/cariere/cauta) |
-| Last Scraped | 2026-10-16 |
+| Last Scraped | 2026-10-17 |
 
-## Current Job Listings (68)
+## Current Job Listings (69)
 
-_Generated: 2026-10-16T10:18:40.443Z_
+_Generated: 2026-10-17T09:52:26.132Z_
 
 ### Bucatar Hipermarket
 
@@ -322,6 +322,12 @@ _Generated: 2026-10-16T10:18:40.443Z_
 - **URL:** [https://carrefour.ro/corporate/cariere/detalii/6810](https://carrefour.ro/corporate/cariere/detalii/6810)
 - **Work Mode:** on-site
 - **Location:** Bucuresti
+- **Status:** scraped
+
+### SEF RAION/ADJUNCT MARFURI ALIMENTARE/NEALIMENTARE
+
+- **URL:** [https://mediere.anofm.ro/app/module/mediere/job/3421079](https://mediere.anofm.ro/app/module/mediere/job/3421079)
+- **Location:** România
 - **Status:** scraped
 
 ### MANIPULANT MARFURI
