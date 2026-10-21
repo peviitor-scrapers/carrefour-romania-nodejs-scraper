@@ -10,11 +10,11 @@
 | Location | MUNICIPIUL BUCUREŞTI, SECTOR 2, STR GARA HERĂSTRĂU, NR.4C, GREEN COURT BUCHAREST. CLADIREA B, ET.4-7 |
 | Website | [https://carrefour.ro](https://carrefour.ro) |
 | Careers | [https://carrefour.ro/corporate/cariere/cauta](https://carrefour.ro/corporate/cariere/cauta) |
-| Last Scraped | 2026-10-20 |
+| Last Scraped | 2026-10-21 |
 
 ## Current Job Listings (67)
 
-_Generated: 2026-10-20T10:34:37.926Z_
+_Generated: 2026-10-21T10:47:22.349Z_
 
 ### Bucatar Hipermarket
 
@@ -326,6 +326,12 @@ _Generated: 2026-10-20T10:34:37.926Z_
 
 ### MANIPULANT MARFURI
 
+- **URL:** [https://mediere.anofm.ro/app/module/mediere/job/3424010](https://mediere.anofm.ro/app/module/mediere/job/3424010)
+- **Location:** România
+- **Status:** scraped
+
+### MANIPULANT MARFURI
+
 - **URL:** [https://mediere.anofm.ro/app/module/mediere/job/3422838](https://mediere.anofm.ro/app/module/mediere/job/3422838)
 - **Location:** România
 - **Status:** scraped
@@ -417,12 +423,6 @@ _Generated: 2026-10-20T10:34:37.926Z_
 ### SEF RAION/ADJUNCT MARFURI ALIMENTARE/NEALIMENTARE
 
 - **URL:** [https://mediere.anofm.ro/app/module/mediere/job/3397888](https://mediere.anofm.ro/app/module/mediere/job/3397888)
-- **Location:** BAIA MARE
-- **Status:** scraped
-
-### SORTATOR PRODUSE
-
-- **URL:** [https://mediere.anofm.ro/app/module/mediere/job/3397863](https://mediere.anofm.ro/app/module/mediere/job/3397863)
 - **Location:** BAIA MARE
 - **Status:** scraped
 
