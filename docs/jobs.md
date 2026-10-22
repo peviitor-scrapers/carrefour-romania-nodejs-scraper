@@ -10,11 +10,11 @@
 | Location | MUNICIPIUL BUCUREŞTI, SECTOR 2, STR GARA HERĂSTRĂU, NR.4C, GREEN COURT BUCHAREST. CLADIREA B, ET.4-7 |
 | Website | [https://carrefour.ro](https://carrefour.ro) |
 | Careers | [https://carrefour.ro/corporate/cariere/cauta](https://carrefour.ro/corporate/cariere/cauta) |
-| Last Scraped | 2026-10-21 |
+| Last Scraped | 2026-10-22 |
 
-## Current Job Listings (67)
+## Current Job Listings (66)
 
-_Generated: 2026-10-21T10:47:22.349Z_
+_Generated: 2026-10-22T10:48:38.103Z_
 
 ### Bucatar Hipermarket
 
@@ -324,15 +324,9 @@ _Generated: 2026-10-21T10:47:22.349Z_
 - **Location:** Bucuresti
 - **Status:** scraped
 
-### MANIPULANT MARFURI
+### CASIER
 
-- **URL:** [https://mediere.anofm.ro/app/module/mediere/job/3424010](https://mediere.anofm.ro/app/module/mediere/job/3424010)
-- **Location:** România
-- **Status:** scraped
-
-### MANIPULANT MARFURI
-
-- **URL:** [https://mediere.anofm.ro/app/module/mediere/job/3422838](https://mediere.anofm.ro/app/module/mediere/job/3422838)
+- **URL:** [https://mediere.anofm.ro/app/module/mediere/job/3425057](https://mediere.anofm.ro/app/module/mediere/job/3425057)
 - **Location:** România
 - **Status:** scraped
 
@@ -378,12 +372,6 @@ _Generated: 2026-10-21T10:47:22.349Z_
 - **Location:** CLUJ-NAPOCA
 - **Status:** scraped
 
-### MANIPULANT MARFURI
-
-- **URL:** [https://mediere.anofm.ro/app/module/mediere/job/3410725](https://mediere.anofm.ro/app/module/mediere/job/3410725)
-- **Location:** TIMISOARA
-- **Status:** scraped
-
 ### MACELAR
 
 - **URL:** [https://mediere.anofm.ro/app/module/mediere/job/3410451](https://mediere.anofm.ro/app/module/mediere/job/3410451)
@@ -423,6 +411,12 @@ _Generated: 2026-10-21T10:47:22.349Z_
 ### SEF RAION/ADJUNCT MARFURI ALIMENTARE/NEALIMENTARE
 
 - **URL:** [https://mediere.anofm.ro/app/module/mediere/job/3397888](https://mediere.anofm.ro/app/module/mediere/job/3397888)
+- **Location:** BAIA MARE
+- **Status:** scraped
+
+### SORTATOR PRODUSE
+
+- **URL:** [https://mediere.anofm.ro/app/module/mediere/job/3397863](https://mediere.anofm.ro/app/module/mediere/job/3397863)
 - **Location:** BAIA MARE
 - **Status:** scraped
 
