@@ -10,11 +10,25 @@
 | Location | MUNICIPIUL BUCUREŞTI, SECTOR 2, STR GARA HERĂSTRĂU, NR.4C, GREEN COURT BUCHAREST. CLADIREA B, ET.4-7 |
 | Website | [https://carrefour.ro](https://carrefour.ro) |
 | Careers | [https://carrefour.ro/corporate/cariere/cauta](https://carrefour.ro/corporate/cariere/cauta) |
-| Last Scraped | 2026-10-23 |
+| Last Scraped | 2026-10-24 |
 
-## Current Job Listings (63)
+## Current Job Listings (69)
 
-_Generated: 2026-10-23T10:40:15.567Z_
+_Generated: 2026-10-24T09:57:29.147Z_
+
+### Lucrator Universal Produse Proaspete Market
+
+- **URL:** [https://carrefour.ro/corporate/cariere/detalii/6881](https://carrefour.ro/corporate/cariere/detalii/6881)
+- **Work Mode:** on-site
+- **Location:** Bucuresti
+- **Status:** scraped
+
+### Casier Comercial Market
+
+- **URL:** [https://carrefour.ro/corporate/cariere/detalii/6882](https://carrefour.ro/corporate/cariere/detalii/6882)
+- **Work Mode:** on-site
+- **Location:** Bucuresti
+- **Status:** scraped
 
 ### Bucatar Hipermarket
 
@@ -28,6 +42,13 @@ _Generated: 2026-10-23T10:40:15.567Z_
 - **URL:** [https://carrefour.ro/corporate/cariere/detalii/6879](https://carrefour.ro/corporate/cariere/detalii/6879)
 - **Work Mode:** on-site
 - **Location:** Sibiu
+- **Status:** scraped
+
+### Casier Comercial Express
+
+- **URL:** [https://carrefour.ro/corporate/cariere/detalii/6880](https://carrefour.ro/corporate/cariere/detalii/6880)
+- **Work Mode:** on-site
+- **Location:** Bucuresti
 - **Status:** scraped
 
 ### Lucrator Universal Market
@@ -310,11 +331,16 @@ _Generated: 2026-10-23T10:40:15.567Z_
 - **Location:** Bucuresti
 - **Status:** scraped
 
-### Lucrator Universal Produse Proaspete Hiper
+### MANIPULANT MARFURI
 
-- **URL:** [https://carrefour.ro/corporate/cariere/detalii/6810](https://carrefour.ro/corporate/cariere/detalii/6810)
-- **Work Mode:** on-site
-- **Location:** Bucuresti
+- **URL:** [https://mediere.anofm.ro/app/module/mediere/job/3426854](https://mediere.anofm.ro/app/module/mediere/job/3426854)
+- **Location:** DROBETA-TURNU SEVERIN
+- **Status:** scraped
+
+### MACELAR
+
+- **URL:** [https://mediere.anofm.ro/app/module/mediere/job/3426844](https://mediere.anofm.ro/app/module/mediere/job/3426844)
+- **Location:** DROBETA-TURNU SEVERIN
 - **Status:** scraped
 
 ### MANIPULANT MARFURI
@@ -371,6 +397,12 @@ _Generated: 2026-10-23T10:40:15.567Z_
 - **Location:** România
 - **Status:** scraped
 
+### LUCRATOR COMERCIAL
+
+- **URL:** [https://mediere.anofm.ro/app/module/mediere/job/3405229](https://mediere.anofm.ro/app/module/mediere/job/3405229)
+- **Location:** România
+- **Status:** scraped
+
 ### BRUTAR
 
 - **URL:** [https://mediere.anofm.ro/app/module/mediere/job/3404636](https://mediere.anofm.ro/app/module/mediere/job/3404636)
@@ -404,6 +436,12 @@ _Generated: 2026-10-23T10:40:15.567Z_
 ### SORTATOR PRODUSE
 
 - **URL:** [https://mediere.anofm.ro/app/module/mediere/job/3397863](https://mediere.anofm.ro/app/module/mediere/job/3397863)
+- **Location:** BAIA MARE
+- **Status:** scraped
+
+### MANIPULANT MARFURI
+
+- **URL:** [https://mediere.anofm.ro/app/module/mediere/job/3397848](https://mediere.anofm.ro/app/module/mediere/job/3397848)
 - **Location:** BAIA MARE
 - **Status:** scraped
 
