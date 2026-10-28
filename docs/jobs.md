@@ -10,11 +10,18 @@
 | Location | MUNICIPIUL BUCUREŞTI, SECTOR 2, STR GARA HERĂSTRĂU, NR.4C, GREEN COURT BUCHAREST. CLADIREA B, ET.4-7 |
 | Website | [https://carrefour.ro](https://carrefour.ro) |
 | Careers | [https://carrefour.ro/corporate/cariere/cauta](https://carrefour.ro/corporate/cariere/cauta) |
-| Last Scraped | 2026-10-27 |
+| Last Scraped | 2026-10-28 |
 
-## Current Job Listings (63)
+## Current Job Listings (66)
 
-_Generated: 2026-10-27T11:13:53.161Z_
+_Generated: 2026-10-28T11:47:47.444Z_
+
+### Lucrator Universal Produse Proaspete Market
+
+- **URL:** [https://carrefour.ro/corporate/cariere/detalii/6883](https://carrefour.ro/corporate/cariere/detalii/6883)
+- **Work Mode:** on-site
+- **Location:** Bucuresti
+- **Status:** scraped
 
 ### Casier Comercial Market
 
@@ -324,6 +331,18 @@ _Generated: 2026-10-27T11:13:53.161Z_
 - **Location:** Bucuresti
 - **Status:** scraped
 
+### SORTATOR PRODUSE
+
+- **URL:** [https://mediere.anofm.ro/app/module/mediere/job/3429964](https://mediere.anofm.ro/app/module/mediere/job/3429964)
+- **Location:** România
+- **Status:** scraped
+
+### MANIPULANT MARFURI
+
+- **URL:** [https://mediere.anofm.ro/app/module/mediere/job/3429959](https://mediere.anofm.ro/app/module/mediere/job/3429959)
+- **Location:** România
+- **Status:** scraped
+
 ### MANIPULANT MARFURI
 
 - **URL:** [https://mediere.anofm.ro/app/module/mediere/job/3428356](https://mediere.anofm.ro/app/module/mediere/job/3428356)
@@ -333,6 +352,12 @@ _Generated: 2026-10-27T11:13:53.161Z_
 ### MANIPULANT MARFURI
 
 - **URL:** [https://mediere.anofm.ro/app/module/mediere/job/3427498](https://mediere.anofm.ro/app/module/mediere/job/3427498)
+- **Location:** România
+- **Status:** scraped
+
+### MANIPULANT MARFURI
+
+- **URL:** [https://mediere.anofm.ro/app/module/mediere/job/3427360](https://mediere.anofm.ro/app/module/mediere/job/3427360)
 - **Location:** România
 - **Status:** scraped
 
@@ -394,12 +419,6 @@ _Generated: 2026-10-27T11:13:53.161Z_
 
 - **URL:** [https://mediere.anofm.ro/app/module/mediere/job/3410725](https://mediere.anofm.ro/app/module/mediere/job/3410725)
 - **Location:** TIMISOARA
-- **Status:** scraped
-
-### MACELAR
-
-- **URL:** [https://mediere.anofm.ro/app/module/mediere/job/3410451](https://mediere.anofm.ro/app/module/mediere/job/3410451)
-- **Location:** România
 - **Status:** scraped
 
 ### LUCRATOR COMERCIAL
