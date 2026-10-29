@@ -10,11 +10,11 @@
 | Location | MUNICIPIUL BUCUREŞTI, SECTOR 2, STR GARA HERĂSTRĂU, NR.4C, GREEN COURT BUCHAREST. CLADIREA B, ET.4-7 |
 | Website | [https://carrefour.ro](https://carrefour.ro) |
 | Careers | [https://carrefour.ro/corporate/cariere/cauta](https://carrefour.ro/corporate/cariere/cauta) |
-| Last Scraped | 2026-10-28 |
+| Last Scraped | 2026-10-29 |
 
 ## Current Job Listings (66)
 
-_Generated: 2026-10-28T11:47:47.444Z_
+_Generated: 2026-10-29T11:56:17.480Z_
 
 ### Lucrator Universal Produse Proaspete Market
 
@@ -54,13 +54,6 @@ _Generated: 2026-10-28T11:47:47.444Z_
 ### Lucrator Universal Market
 
 - **URL:** [https://carrefour.ro/corporate/cariere/detalii/6877](https://carrefour.ro/corporate/cariere/detalii/6877)
-- **Work Mode:** on-site
-- **Location:** Bucuresti
-- **Status:** scraped
-
-### Lucrator Universal Produse Proaspete Market
-
-- **URL:** [https://carrefour.ro/corporate/cariere/detalii/6874](https://carrefour.ro/corporate/cariere/detalii/6874)
 - **Work Mode:** on-site
 - **Location:** Bucuresti
 - **Status:** scraped
@@ -331,6 +324,18 @@ _Generated: 2026-10-28T11:47:47.444Z_
 - **Location:** Bucuresti
 - **Status:** scraped
 
+### MANIPULANT MARFURI
+
+- **URL:** [https://mediere.anofm.ro/app/module/mediere/job/3431545](https://mediere.anofm.ro/app/module/mediere/job/3431545)
+- **Location:** România
+- **Status:** scraped
+
+### LUCRATOR COMERCIAL
+
+- **URL:** [https://mediere.anofm.ro/app/module/mediere/job/3431363](https://mediere.anofm.ro/app/module/mediere/job/3431363)
+- **Location:** România
+- **Status:** scraped
+
 ### SORTATOR PRODUSE
 
 - **URL:** [https://mediere.anofm.ro/app/module/mediere/job/3429964](https://mediere.anofm.ro/app/module/mediere/job/3429964)
@@ -419,12 +424,6 @@ _Generated: 2026-10-28T11:47:47.444Z_
 
 - **URL:** [https://mediere.anofm.ro/app/module/mediere/job/3410725](https://mediere.anofm.ro/app/module/mediere/job/3410725)
 - **Location:** TIMISOARA
-- **Status:** scraped
-
-### LUCRATOR COMERCIAL
-
-- **URL:** [https://mediere.anofm.ro/app/module/mediere/job/3405229](https://mediere.anofm.ro/app/module/mediere/job/3405229)
-- **Location:** România
 - **Status:** scraped
 
 ### BRUTAR
