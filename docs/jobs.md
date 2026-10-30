@@ -10,11 +10,11 @@
 | Location | MUNICIPIUL BUCUREŞTI, SECTOR 2, STR GARA HERĂSTRĂU, NR.4C, GREEN COURT BUCHAREST. CLADIREA B, ET.4-7 |
 | Website | [https://carrefour.ro](https://carrefour.ro) |
 | Careers | [https://carrefour.ro/corporate/cariere/cauta](https://carrefour.ro/corporate/cariere/cauta) |
-| Last Scraped | 2026-10-29 |
+| Last Scraped | 2026-10-30 |
 
-## Current Job Listings (66)
+## Current Job Listings (62)
 
-_Generated: 2026-10-29T11:56:17.480Z_
+_Generated: 2026-10-30T11:49:28.873Z_
 
 ### Lucrator Universal Produse Proaspete Market
 
@@ -30,9 +30,9 @@ _Generated: 2026-10-29T11:56:17.480Z_
 - **Location:** Bucuresti
 - **Status:** scraped
 
-### Bucatar Hipermarket
+### Casier Comercial Express
 
-- **URL:** [https://carrefour.ro/corporate/cariere/detalii/6878](https://carrefour.ro/corporate/cariere/detalii/6878)
+- **URL:** [https://carrefour.ro/corporate/cariere/detalii/6880](https://carrefour.ro/corporate/cariere/detalii/6880)
 - **Work Mode:** on-site
 - **Location:** Bucuresti
 - **Status:** scraped
@@ -44,9 +44,9 @@ _Generated: 2026-10-29T11:56:17.480Z_
 - **Location:** Sibiu
 - **Status:** scraped
 
-### Casier Comercial Express
+### Bucatar Hipermarket
 
-- **URL:** [https://carrefour.ro/corporate/cariere/detalii/6880](https://carrefour.ro/corporate/cariere/detalii/6880)
+- **URL:** [https://carrefour.ro/corporate/cariere/detalii/6878](https://carrefour.ro/corporate/cariere/detalii/6878)
 - **Work Mode:** on-site
 - **Location:** Bucuresti
 - **Status:** scraped
@@ -58,16 +58,16 @@ _Generated: 2026-10-29T11:56:17.480Z_
 - **Location:** Bucuresti
 - **Status:** scraped
 
-### Lucrator Universal Market
+### Manager Adjunct Supermarket
 
-- **URL:** [https://carrefour.ro/corporate/cariere/detalii/6875](https://carrefour.ro/corporate/cariere/detalii/6875)
+- **URL:** [https://carrefour.ro/corporate/cariere/detalii/6876](https://carrefour.ro/corporate/cariere/detalii/6876)
 - **Work Mode:** on-site
 - **Location:** Bucuresti
 - **Status:** scraped
 
-### Manager Adjunct Supermarket
+### Lucrator Universal Market
 
-- **URL:** [https://carrefour.ro/corporate/cariere/detalii/6876](https://carrefour.ro/corporate/cariere/detalii/6876)
+- **URL:** [https://carrefour.ro/corporate/cariere/detalii/6875](https://carrefour.ro/corporate/cariere/detalii/6875)
 - **Work Mode:** on-site
 - **Location:** Bucuresti
 - **Status:** scraped
@@ -79,18 +79,18 @@ _Generated: 2026-10-29T11:56:17.480Z_
 - **Location:** Timisoara
 - **Status:** scraped
 
-### Lucrator Universal Produse Proaspete Hiper
-
-- **URL:** [https://carrefour.ro/corporate/cariere/detalii/6871](https://carrefour.ro/corporate/cariere/detalii/6871)
-- **Work Mode:** on-site
-- **Location:** Brasov
-- **Status:** scraped
-
 ### Lucrator Universal Receptie Marfa Hiper
 
 - **URL:** [https://carrefour.ro/corporate/cariere/detalii/6872](https://carrefour.ro/corporate/cariere/detalii/6872)
 - **Work Mode:** on-site
 - **Location:** Bucuresti
+- **Status:** scraped
+
+### Lucrator Universal Produse Proaspete Hiper
+
+- **URL:** [https://carrefour.ro/corporate/cariere/detalii/6871](https://carrefour.ro/corporate/cariere/detalii/6871)
+- **Work Mode:** on-site
+- **Location:** Brasov
 - **Status:** scraped
 
 ### Lucrator Universal Express
@@ -100,11 +100,11 @@ _Generated: 2026-10-29T11:56:17.480Z_
 - **Location:** Deva
 - **Status:** scraped
 
-### Lucrator Universal Produse Proaspete Express
+### Lucrator Universal Hiper
 
-- **URL:** [https://carrefour.ro/corporate/cariere/detalii/6867](https://carrefour.ro/corporate/cariere/detalii/6867)
+- **URL:** [https://carrefour.ro/corporate/cariere/detalii/6869](https://carrefour.ro/corporate/cariere/detalii/6869)
 - **Work Mode:** on-site
-- **Location:** Bucuresti
+- **Location:** Ramnicu Valcea
 - **Status:** scraped
 
 ### Lucrator Universal Produse Proaspete Market
@@ -114,11 +114,18 @@ _Generated: 2026-10-29T11:56:17.480Z_
 - **Location:** Bucuresti
 - **Status:** scraped
 
-### Lucrator Universal Hiper
+### Lucrator Universal Produse Proaspete Express
 
-- **URL:** [https://carrefour.ro/corporate/cariere/detalii/6869](https://carrefour.ro/corporate/cariere/detalii/6869)
+- **URL:** [https://carrefour.ro/corporate/cariere/detalii/6867](https://carrefour.ro/corporate/cariere/detalii/6867)
 - **Work Mode:** on-site
-- **Location:** Ramnicu Valcea
+- **Location:** Bucuresti
+- **Status:** scraped
+
+### Lucrator Universal Produse Proaspete Hiper
+
+- **URL:** [https://carrefour.ro/corporate/cariere/detalii/6866](https://carrefour.ro/corporate/cariere/detalii/6866)
+- **Work Mode:** on-site
+- **Location:** Bucuresti
 - **Status:** scraped
 
 ### Operator Supraveghere
@@ -128,9 +135,9 @@ _Generated: 2026-10-29T11:56:17.480Z_
 - **Location:** Galati
 - **Status:** scraped
 
-### Lucrator Universal Produse Proaspete Hiper
+### Brutar
 
-- **URL:** [https://carrefour.ro/corporate/cariere/detalii/6866](https://carrefour.ro/corporate/cariere/detalii/6866)
+- **URL:** [https://carrefour.ro/corporate/cariere/detalii/6864](https://carrefour.ro/corporate/cariere/detalii/6864)
 - **Work Mode:** on-site
 - **Location:** Bucuresti
 - **Status:** scraped
@@ -142,23 +149,9 @@ _Generated: 2026-10-29T11:56:17.480Z_
 - **Location:** Timisoara
 - **Status:** scraped
 
-### Brutar
-
-- **URL:** [https://carrefour.ro/corporate/cariere/detalii/6864](https://carrefour.ro/corporate/cariere/detalii/6864)
-- **Work Mode:** on-site
-- **Location:** Bucuresti
-- **Status:** scraped
-
 ### Lucrator Universal Produse Proaspete Hiper
 
 - **URL:** [https://carrefour.ro/corporate/cariere/detalii/6862](https://carrefour.ro/corporate/cariere/detalii/6862)
-- **Work Mode:** on-site
-- **Location:** Bucuresti
-- **Status:** scraped
-
-### Lucrator Universal Produse Proaspete Hiper
-
-- **URL:** [https://carrefour.ro/corporate/cariere/detalii/6860](https://carrefour.ro/corporate/cariere/detalii/6860)
 - **Work Mode:** on-site
 - **Location:** Bucuresti
 - **Status:** scraped
@@ -170,11 +163,18 @@ _Generated: 2026-10-29T11:56:17.480Z_
 - **Location:** Bucuresti
 - **Status:** scraped
 
-### Manager Adjunct Supermarket
+### Lucrator Universal Produse Proaspete Hiper
 
-- **URL:** [https://carrefour.ro/corporate/cariere/detalii/6857](https://carrefour.ro/corporate/cariere/detalii/6857)
+- **URL:** [https://carrefour.ro/corporate/cariere/detalii/6860](https://carrefour.ro/corporate/cariere/detalii/6860)
 - **Work Mode:** on-site
 - **Location:** Bucuresti
+- **Status:** scraped
+
+### Lucrator Universal Receptie Marfa Hiper
+
+- **URL:** [https://carrefour.ro/corporate/cariere/detalii/6859](https://carrefour.ro/corporate/cariere/detalii/6859)
+- **Work Mode:** on-site
+- **Location:** România
 - **Status:** scraped
 
 ### Lucrator Universal Produse Proaspete Hiper
@@ -184,11 +184,11 @@ _Generated: 2026-10-29T11:56:17.480Z_
 - **Location:** România
 - **Status:** scraped
 
-### Lucrator Universal Receptie Marfa Hiper
+### Manager Adjunct Supermarket
 
-- **URL:** [https://carrefour.ro/corporate/cariere/detalii/6859](https://carrefour.ro/corporate/cariere/detalii/6859)
+- **URL:** [https://carrefour.ro/corporate/cariere/detalii/6857](https://carrefour.ro/corporate/cariere/detalii/6857)
 - **Work Mode:** on-site
-- **Location:** România
+- **Location:** Bucuresti
 - **Status:** scraped
 
 ### Preparator Peste
@@ -212,16 +212,16 @@ _Generated: 2026-10-29T11:56:17.480Z_
 - **Location:** Bucuresti
 - **Status:** scraped
 
-### Asistent Vanzari Electrocasnice
+### Lucrator Universal Hiper
 
-- **URL:** [https://carrefour.ro/corporate/cariere/detalii/6851](https://carrefour.ro/corporate/cariere/detalii/6851)
+- **URL:** [https://carrefour.ro/corporate/cariere/detalii/6852](https://carrefour.ro/corporate/cariere/detalii/6852)
 - **Work Mode:** on-site
 - **Location:** Bucuresti
 - **Status:** scraped
 
-### Lucrator Universal Hiper
+### Asistent Vanzari Electrocasnice
 
-- **URL:** [https://carrefour.ro/corporate/cariere/detalii/6852](https://carrefour.ro/corporate/cariere/detalii/6852)
+- **URL:** [https://carrefour.ro/corporate/cariere/detalii/6851](https://carrefour.ro/corporate/cariere/detalii/6851)
 - **Work Mode:** on-site
 - **Location:** Bucuresti
 - **Status:** scraped
@@ -303,25 +303,10 @@ _Generated: 2026-10-29T11:56:17.480Z_
 - **Location:** Timisoara
 - **Status:** scraped
 
-### Lucrator Universal Hiper
+### AGENT DE SECURITATE INCINTA (MAGAZIN, HOTEL, ÎNTREPRINDERE ETC.)
 
-- **URL:** [https://carrefour.ro/corporate/cariere/detalii/6813](https://carrefour.ro/corporate/cariere/detalii/6813)
-- **Work Mode:** on-site
-- **Location:** Cluj-Napoca
-- **Status:** scraped
-
-### Măcelar
-
-- **URL:** [https://carrefour.ro/corporate/cariere/detalii/6814](https://carrefour.ro/corporate/cariere/detalii/6814)
-- **Work Mode:** on-site
-- **Location:** Bucuresti
-- **Status:** scraped
-
-### Lucrator Universal Produse Proaspete Hiper
-
-- **URL:** [https://carrefour.ro/corporate/cariere/detalii/6816](https://carrefour.ro/corporate/cariere/detalii/6816)
-- **Work Mode:** on-site
-- **Location:** Bucuresti
+- **URL:** [https://mediere.anofm.ro/app/module/mediere/job/3432761](https://mediere.anofm.ro/app/module/mediere/job/3432761)
+- **Location:** BRASOV
 - **Status:** scraped
 
 ### MANIPULANT MARFURI
@@ -346,12 +331,6 @@ _Generated: 2026-10-29T11:56:17.480Z_
 
 - **URL:** [https://mediere.anofm.ro/app/module/mediere/job/3429959](https://mediere.anofm.ro/app/module/mediere/job/3429959)
 - **Location:** România
-- **Status:** scraped
-
-### MANIPULANT MARFURI
-
-- **URL:** [https://mediere.anofm.ro/app/module/mediere/job/3428356](https://mediere.anofm.ro/app/module/mediere/job/3428356)
-- **Location:** BRASOV
 - **Status:** scraped
 
 ### MANIPULANT MARFURI
@@ -418,12 +397,6 @@ _Generated: 2026-10-29T11:56:17.480Z_
 
 - **URL:** [https://mediere.anofm.ro/app/module/mediere/job/3411365](https://mediere.anofm.ro/app/module/mediere/job/3411365)
 - **Location:** CLUJ-NAPOCA
-- **Status:** scraped
-
-### MANIPULANT MARFURI
-
-- **URL:** [https://mediere.anofm.ro/app/module/mediere/job/3410725](https://mediere.anofm.ro/app/module/mediere/job/3410725)
-- **Location:** TIMISOARA
 - **Status:** scraped
 
 ### BRUTAR
