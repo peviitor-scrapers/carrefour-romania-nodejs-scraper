@@ -10,11 +10,11 @@
 | Location | MUNICIPIUL BUCUREŞTI, SECTOR 2, STR GARA HERĂSTRĂU, NR.4C, GREEN COURT BUCHAREST. CLADIREA B, ET.4-7 |
 | Website | [https://carrefour.ro](https://carrefour.ro) |
 | Careers | [https://carrefour.ro/corporate/cariere/cauta](https://carrefour.ro/corporate/cariere/cauta) |
-| Last Scraped | 2026-11-04 |
+| Last Scraped | 2026-11-05 |
 
-## Current Job Listings (65)
+## Current Job Listings (67)
 
-_Generated: 2026-11-04T13:26:24.811Z_
+_Generated: 2026-11-05T13:40:39.320Z_
 
 ### Colector Comenzi Online
 
@@ -310,6 +310,12 @@ _Generated: 2026-11-04T13:26:24.811Z_
 - **Location:** Brasov
 - **Status:** scraped
 
+### CASIER
+
+- **URL:** [https://mediere.anofm.ro/app/module/mediere/job/3439654](https://mediere.anofm.ro/app/module/mediere/job/3439654)
+- **Location:** BRASOV
+- **Status:** scraped
+
 ### COFETAR
 
 - **URL:** [https://mediere.anofm.ro/app/module/mediere/job/3438570](https://mediere.anofm.ro/app/module/mediere/job/3438570)
@@ -319,6 +325,12 @@ _Generated: 2026-11-04T13:26:24.811Z_
 ### MANIPULANT MARFURI
 
 - **URL:** [https://mediere.anofm.ro/app/module/mediere/job/3438436](https://mediere.anofm.ro/app/module/mediere/job/3438436)
+- **Location:** România
+- **Status:** scraped
+
+### BUCATAR
+
+- **URL:** [https://mediere.anofm.ro/app/module/mediere/job/3438388](https://mediere.anofm.ro/app/module/mediere/job/3438388)
 - **Location:** România
 - **Status:** scraped
 
@@ -356,12 +368,6 @@ _Generated: 2026-11-04T13:26:24.811Z_
 
 - **URL:** [https://mediere.anofm.ro/app/module/mediere/job/3437015](https://mediere.anofm.ro/app/module/mediere/job/3437015)
 - **Location:** România
-- **Status:** scraped
-
-### SORTATOR PRODUSE
-
-- **URL:** [https://mediere.anofm.ro/app/module/mediere/job/3436896](https://mediere.anofm.ro/app/module/mediere/job/3436896)
-- **Location:** BRASOV
 - **Status:** scraped
 
 ### BRUTAR
@@ -408,6 +414,12 @@ _Generated: 2026-11-04T13:26:24.811Z_
 
 ### MANIPULANT MARFURI
 
+- **URL:** [https://mediere.anofm.ro/app/module/mediere/job/3429959](https://mediere.anofm.ro/app/module/mediere/job/3429959)
+- **Location:** România
+- **Status:** scraped
+
+### MANIPULANT MARFURI
+
 - **URL:** [https://mediere.anofm.ro/app/module/mediere/job/3427498](https://mediere.anofm.ro/app/module/mediere/job/3427498)
 - **Location:** România
 - **Status:** scraped
@@ -418,15 +430,15 @@ _Generated: 2026-11-04T13:26:24.811Z_
 - **Location:** DROBETA-TURNU SEVERIN
 - **Status:** scraped
 
-### MANIPULANT MARFURI
+### MACELAR
 
-- **URL:** [https://mediere.anofm.ro/app/module/mediere/job/3422814](https://mediere.anofm.ro/app/module/mediere/job/3422814)
-- **Location:** România
+- **URL:** [https://mediere.anofm.ro/app/module/mediere/job/3426844](https://mediere.anofm.ro/app/module/mediere/job/3426844)
+- **Location:** DROBETA-TURNU SEVERIN
 - **Status:** scraped
 
 ### MANIPULANT MARFURI
 
-- **URL:** [https://mediere.anofm.ro/app/module/mediere/job/3419801](https://mediere.anofm.ro/app/module/mediere/job/3419801)
+- **URL:** [https://mediere.anofm.ro/app/module/mediere/job/3422814](https://mediere.anofm.ro/app/module/mediere/job/3422814)
 - **Location:** România
 - **Status:** scraped
 
