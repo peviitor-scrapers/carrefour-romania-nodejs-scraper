@@ -10,11 +10,11 @@
 | Location | MUNICIPIUL BUCUREŞTI, SECTOR 2, STR GARA HERĂSTRĂU, NR.4C, GREEN COURT BUCHAREST. CLADIREA B, ET.4-7 |
 | Website | [https://carrefour.ro](https://carrefour.ro) |
 | Careers | [https://carrefour.ro/corporate/cariere/cauta](https://carrefour.ro/corporate/cariere/cauta) |
-| Last Scraped | 2026-11-06 |
+| Last Scraped | 2026-11-07 |
 
-## Current Job Listings (66)
+## Current Job Listings (67)
 
-_Generated: 2026-11-06T13:24:55.760Z_
+_Generated: 2026-11-07T12:02:46.135Z_
 
 ### Colector Comenzi Online
 
@@ -391,6 +391,12 @@ _Generated: 2026-11-06T13:24:55.760Z_
 ### CASIER
 
 - **URL:** [https://mediere.anofm.ro/app/module/mediere/job/3436317](https://mediere.anofm.ro/app/module/mediere/job/3436317)
+- **Location:** România
+- **Status:** scraped
+
+### MANIPULANT MARFURI
+
+- **URL:** [https://mediere.anofm.ro/app/module/mediere/job/3431545](https://mediere.anofm.ro/app/module/mediere/job/3431545)
 - **Location:** România
 - **Status:** scraped
 
