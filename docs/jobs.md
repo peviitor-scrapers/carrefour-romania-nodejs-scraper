@@ -10,11 +10,11 @@
 | Location | MUNICIPIUL BUCUREŞTI, SECTOR 2, STR GARA HERĂSTRĂU, NR.4C, GREEN COURT BUCHAREST. CLADIREA B, ET.4-7 |
 | Website | [https://carrefour.ro](https://carrefour.ro) |
 | Careers | [https://carrefour.ro/corporate/cariere/cauta](https://carrefour.ro/corporate/cariere/cauta) |
-| Last Scraped | 2026-11-08 |
+| Last Scraped | 2026-11-09 |
 
-## Current Job Listings (66)
+## Current Job Listings (62)
 
-_Generated: 2026-11-08T12:23:25.243Z_
+_Generated: 2026-11-09T14:37:13.855Z_
 
 ### Colector Comenzi Online
 
@@ -303,12 +303,6 @@ _Generated: 2026-11-08T12:23:25.243Z_
 - **Location:** Bucuresti
 - **Status:** scraped
 
-### CASIER
-
-- **URL:** [https://mediere.anofm.ro/app/module/mediere/job/3439654](https://mediere.anofm.ro/app/module/mediere/job/3439654)
-- **Location:** BRASOV
-- **Status:** scraped
-
 ### COFETAR
 
 - **URL:** [https://mediere.anofm.ro/app/module/mediere/job/3438570](https://mediere.anofm.ro/app/module/mediere/job/3438570)
@@ -413,25 +407,7 @@ _Generated: 2026-11-08T12:23:25.243Z_
 
 ### MANIPULANT MARFURI
 
-- **URL:** [https://mediere.anofm.ro/app/module/mediere/job/3426854](https://mediere.anofm.ro/app/module/mediere/job/3426854)
-- **Location:** DROBETA-TURNU SEVERIN
-- **Status:** scraped
-
-### MACELAR
-
-- **URL:** [https://mediere.anofm.ro/app/module/mediere/job/3426844](https://mediere.anofm.ro/app/module/mediere/job/3426844)
-- **Location:** DROBETA-TURNU SEVERIN
-- **Status:** scraped
-
-### MANIPULANT MARFURI
-
 - **URL:** [https://mediere.anofm.ro/app/module/mediere/job/3422814](https://mediere.anofm.ro/app/module/mediere/job/3422814)
-- **Location:** România
-- **Status:** scraped
-
-### MANIPULANT MARFURI
-
-- **URL:** [https://mediere.anofm.ro/app/module/mediere/job/3419801](https://mediere.anofm.ro/app/module/mediere/job/3419801)
 - **Location:** România
 - **Status:** scraped
 
