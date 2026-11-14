@@ -10,11 +10,11 @@
 | Location | MUNICIPIUL BUCUREŞTI, SECTOR 2, STR GARA HERĂSTRĂU, NR.4C, GREEN COURT BUCHAREST. CLADIREA B, ET.4-7 |
 | Website | [https://carrefour.ro](https://carrefour.ro) |
 | Careers | [https://carrefour.ro/corporate/cariere/cauta](https://carrefour.ro/corporate/cariere/cauta) |
-| Last Scraped | 2026-11-13 |
+| Last Scraped | 2026-11-14 |
 
-## Current Job Listings (66)
+## Current Job Listings (65)
 
-_Generated: 2026-11-13T13:35:10.566Z_
+_Generated: 2026-11-14T12:40:37.402Z_
 
 ### Colector Comenzi Online
 
@@ -280,13 +280,6 @@ _Generated: 2026-11-13T13:35:10.566Z_
 - **URL:** [https://carrefour.ro/corporate/cariere/detalii/6834](https://carrefour.ro/corporate/cariere/detalii/6834)
 - **Work Mode:** on-site
 - **Location:** Bucuresti
-- **Status:** scraped
-
-### Lucrator Universal Produse Proaspete Hiper
-
-- **URL:** [https://carrefour.ro/corporate/cariere/detalii/6830](https://carrefour.ro/corporate/cariere/detalii/6830)
-- **Work Mode:** on-site
-- **Location:** Cluj-Napoca
 - **Status:** scraped
 
 ### PREPARATOR PESTE, RACI, BROASTE ÎN CHERHANALE SI OFICII
