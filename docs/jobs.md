@@ -7,14 +7,14 @@
 | CIF | 11588780 |
 | Brand | Carrefour |
 | Status | activ |
-| Location | MUNICIPIUL BUCUREŞTI, SECTOR 2, STR GARA HERĂSTRĂU, NR.4C, GREEN COURT BUCHAREST. CLADIREA B, ET.4-7 |
+| Location | Bucuresti |
 | Website | [https://carrefour.ro](https://carrefour.ro) |
 | Careers | [https://carrefour.ro/corporate/cariere/cauta](https://carrefour.ro/corporate/cariere/cauta) |
-| Last Scraped | 2026-11-14 |
+| Last Scraped | 2026-11-15 |
 
-## Current Job Listings (65)
+## Current Job Listings (63)
 
-_Generated: 2026-11-14T12:40:37.402Z_
+_Generated: 2026-11-15T13:06:33.631Z_
 
 ### Colector Comenzi Online
 
@@ -390,12 +390,6 @@ _Generated: 2026-11-14T12:40:37.402Z_
 - **Location:** România
 - **Status:** scraped
 
-### MANIPULANT MARFURI
-
-- **URL:** [https://mediere.anofm.ro/app/module/mediere/job/3431545](https://mediere.anofm.ro/app/module/mediere/job/3431545)
-- **Location:** România
-- **Status:** scraped
-
 ### LUCRATOR COMERCIAL
 
 - **URL:** [https://mediere.anofm.ro/app/module/mediere/job/3431363](https://mediere.anofm.ro/app/module/mediere/job/3431363)
@@ -411,12 +405,6 @@ _Generated: 2026-11-14T12:40:37.402Z_
 ### MANIPULANT MARFURI
 
 - **URL:** [https://mediere.anofm.ro/app/module/mediere/job/3427498](https://mediere.anofm.ro/app/module/mediere/job/3427498)
-- **Location:** România
-- **Status:** scraped
-
-### MANIPULANT MARFURI
-
-- **URL:** [https://mediere.anofm.ro/app/module/mediere/job/3422814](https://mediere.anofm.ro/app/module/mediere/job/3422814)
 - **Location:** România
 - **Status:** scraped
 
