@@ -10,11 +10,18 @@
 | Location | MUNICIPIUL BUCUREŞTI, SECTOR 2, STR GARA HERĂSTRĂU, NR.4C, GREEN COURT BUCHAREST. CLADIREA B, ET.4-7 |
 | Website | [https://carrefour.ro](https://carrefour.ro) |
 | Careers | [https://carrefour.ro/corporate/cariere/cauta](https://carrefour.ro/corporate/cariere/cauta) |
-| Last Scraped | 2026-11-16 |
+| Last Scraped | 2026-11-17 |
 
-## Current Job Listings (65)
+## Current Job Listings (64)
 
-_Generated: 2026-11-16T14:11:54.832Z_
+_Generated: 2026-11-17T15:05:25.949Z_
+
+### Colector Comenzi Online
+
+- **URL:** [https://carrefour.ro/corporate/cariere/detalii/6887](https://carrefour.ro/corporate/cariere/detalii/6887)
+- **Work Mode:** on-site
+- **Location:** Cluj-Napoca
+- **Status:** scraped
 
 ### Colector Comenzi Online
 
@@ -72,16 +79,16 @@ _Generated: 2026-11-16T14:11:54.832Z_
 - **Location:** Bucuresti
 - **Status:** scraped
 
-### Lucrator Universal Market
+### Manager Adjunct Supermarket
 
-- **URL:** [https://carrefour.ro/corporate/cariere/detalii/6875](https://carrefour.ro/corporate/cariere/detalii/6875)
+- **URL:** [https://carrefour.ro/corporate/cariere/detalii/6876](https://carrefour.ro/corporate/cariere/detalii/6876)
 - **Work Mode:** on-site
 - **Location:** Bucuresti
 - **Status:** scraped
 
-### Manager Adjunct Supermarket
+### Lucrator Universal Market
 
-- **URL:** [https://carrefour.ro/corporate/cariere/detalii/6876](https://carrefour.ro/corporate/cariere/detalii/6876)
+- **URL:** [https://carrefour.ro/corporate/cariere/detalii/6875](https://carrefour.ro/corporate/cariere/detalii/6875)
 - **Work Mode:** on-site
 - **Location:** Bucuresti
 - **Status:** scraped
@@ -135,18 +142,18 @@ _Generated: 2026-11-16T14:11:54.832Z_
 - **Location:** Bucuresti
 - **Status:** scraped
 
-### Lucrator Universal Produse Proaspete Hiper
-
-- **URL:** [https://carrefour.ro/corporate/cariere/detalii/6866](https://carrefour.ro/corporate/cariere/detalii/6866)
-- **Work Mode:** on-site
-- **Location:** Bucuresti
-- **Status:** scraped
-
 ### Operator Supraveghere
 
 - **URL:** [https://carrefour.ro/corporate/cariere/detalii/6865](https://carrefour.ro/corporate/cariere/detalii/6865)
 - **Work Mode:** on-site
 - **Location:** Galati
+- **Status:** scraped
+
+### Lucrator Universal Produse Proaspete Hiper
+
+- **URL:** [https://carrefour.ro/corporate/cariere/detalii/6866](https://carrefour.ro/corporate/cariere/detalii/6866)
+- **Work Mode:** on-site
+- **Location:** Bucuresti
 - **Status:** scraped
 
 ### Brutar
@@ -282,6 +289,30 @@ _Generated: 2026-11-16T14:11:54.832Z_
 - **Location:** Bucuresti
 - **Status:** scraped
 
+### COFETAR
+
+- **URL:** [https://mediere.anofm.ro/app/module/mediere/job/3449465](https://mediere.anofm.ro/app/module/mediere/job/3449465)
+- **Location:** România
+- **Status:** scraped
+
+### MANIPULANT MARFURI
+
+- **URL:** [https://mediere.anofm.ro/app/module/mediere/job/3448832](https://mediere.anofm.ro/app/module/mediere/job/3448832)
+- **Location:** România
+- **Status:** scraped
+
+### CASIER
+
+- **URL:** [https://mediere.anofm.ro/app/module/mediere/job/3448824](https://mediere.anofm.ro/app/module/mediere/job/3448824)
+- **Location:** România
+- **Status:** scraped
+
+### MANIPULANT MARFURI
+
+- **URL:** [https://mediere.anofm.ro/app/module/mediere/job/3448815](https://mediere.anofm.ro/app/module/mediere/job/3448815)
+- **Location:** România
+- **Status:** scraped
+
 ### SORTATOR PRODUSE
 
 - **URL:** [https://mediere.anofm.ro/app/module/mediere/job/3448788](https://mediere.anofm.ro/app/module/mediere/job/3448788)
@@ -322,12 +353,6 @@ _Generated: 2026-11-16T14:11:54.832Z_
 
 - **URL:** [https://mediere.anofm.ro/app/module/mediere/job/3446580](https://mediere.anofm.ro/app/module/mediere/job/3446580)
 - **Location:** BUZAU
-- **Status:** scraped
-
-### MANIPULANT MARFURI
-
-- **URL:** [https://mediere.anofm.ro/app/module/mediere/job/3444598](https://mediere.anofm.ro/app/module/mediere/job/3444598)
-- **Location:** România
 - **Status:** scraped
 
 ### CASIER
@@ -372,39 +397,9 @@ _Generated: 2026-11-16T14:11:54.832Z_
 - **Location:** România
 - **Status:** scraped
 
-### SORTATOR PRODUSE
-
-- **URL:** [https://mediere.anofm.ro/app/module/mediere/job/3437019](https://mediere.anofm.ro/app/module/mediere/job/3437019)
-- **Location:** România
-- **Status:** scraped
-
 ### BRUTAR
 
 - **URL:** [https://mediere.anofm.ro/app/module/mediere/job/3436590](https://mediere.anofm.ro/app/module/mediere/job/3436590)
-- **Location:** România
-- **Status:** scraped
-
-### LUCRATOR COMERCIAL
-
-- **URL:** [https://mediere.anofm.ro/app/module/mediere/job/3436379](https://mediere.anofm.ro/app/module/mediere/job/3436379)
-- **Location:** România
-- **Status:** scraped
-
-### UCENIC
-
-- **URL:** [https://mediere.anofm.ro/app/module/mediere/job/3436357](https://mediere.anofm.ro/app/module/mediere/job/3436357)
-- **Location:** România
-- **Status:** scraped
-
-### LUCRATOR COMERCIAL
-
-- **URL:** [https://mediere.anofm.ro/app/module/mediere/job/3436339](https://mediere.anofm.ro/app/module/mediere/job/3436339)
-- **Location:** România
-- **Status:** scraped
-
-### CASIER
-
-- **URL:** [https://mediere.anofm.ro/app/module/mediere/job/3436317](https://mediere.anofm.ro/app/module/mediere/job/3436317)
 - **Location:** România
 - **Status:** scraped
 
