@@ -10,11 +10,11 @@
 | Location | MUNICIPIUL BUCUREŞTI, SECTOR 2, STR GARA HERĂSTRĂU, NR.4C, GREEN COURT BUCHAREST. CLADIREA B, ET.4-7 |
 | Website | [https://carrefour.ro](https://carrefour.ro) |
 | Careers | [https://carrefour.ro/corporate/cariere/cauta](https://carrefour.ro/corporate/cariere/cauta) |
-| Last Scraped | 2026-11-19 |
+| Last Scraped | 2026-11-20 |
 
-## Current Job Listings (60)
+## Current Job Listings (62)
 
-_Generated: 2026-11-19T14:51:57.408Z_
+_Generated: 2026-11-20T14:32:55.507Z_
 
 ### Casier Comercial Hiper
 
@@ -287,6 +287,18 @@ _Generated: 2026-11-19T14:51:57.408Z_
 - **URL:** [https://carrefour.ro/corporate/cariere/detalii/6840](https://carrefour.ro/corporate/cariere/detalii/6840)
 - **Work Mode:** on-site
 - **Location:** Iasi
+- **Status:** scraped
+
+### MANIPULANT MARFURI
+
+- **URL:** [https://mediere.anofm.ro/app/module/mediere/job/3452840](https://mediere.anofm.ro/app/module/mediere/job/3452840)
+- **Location:** România
+- **Status:** scraped
+
+### MANIPULANT MARFURI
+
+- **URL:** [https://mediere.anofm.ro/app/module/mediere/job/3452526](https://mediere.anofm.ro/app/module/mediere/job/3452526)
+- **Location:** România
 - **Status:** scraped
 
 ### COFETAR
