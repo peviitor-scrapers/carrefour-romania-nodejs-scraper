@@ -10,11 +10,18 @@
 | Location | MUNICIPIUL BUCUREŞTI, SECTOR 2, STR GARA HERĂSTRĂU, NR.4C, GREEN COURT BUCHAREST. CLADIREA B, ET.4-7 |
 | Website | [https://carrefour.ro](https://carrefour.ro) |
 | Careers | [https://carrefour.ro/corporate/cariere/cauta](https://carrefour.ro/corporate/cariere/cauta) |
-| Last Scraped | 2026-11-20 |
+| Last Scraped | 2026-11-21 |
 
-## Current Job Listings (62)
+## Current Job Listings (63)
 
-_Generated: 2026-11-20T14:32:55.507Z_
+_Generated: 2026-11-21T13:52:07.585Z_
+
+### Lucrator Universal Produse Proaspete Market
+
+- **URL:** [https://carrefour.ro/corporate/cariere/detalii/6889](https://carrefour.ro/corporate/cariere/detalii/6889)
+- **Work Mode:** on-site
+- **Location:** Bucuresti
+- **Status:** scraped
 
 ### Casier Comercial Hiper
 
@@ -65,18 +72,18 @@ _Generated: 2026-11-20T14:32:55.507Z_
 - **Location:** Bucuresti
 - **Status:** scraped
 
-### Bucatar Hipermarket
-
-- **URL:** [https://carrefour.ro/corporate/cariere/detalii/6878](https://carrefour.ro/corporate/cariere/detalii/6878)
-- **Work Mode:** on-site
-- **Location:** Bucuresti
-- **Status:** scraped
-
 ### Casier Comercial Hiper
 
 - **URL:** [https://carrefour.ro/corporate/cariere/detalii/6879](https://carrefour.ro/corporate/cariere/detalii/6879)
 - **Work Mode:** on-site
 - **Location:** Sibiu
+- **Status:** scraped
+
+### Bucatar Hipermarket
+
+- **URL:** [https://carrefour.ro/corporate/cariere/detalii/6878](https://carrefour.ro/corporate/cariere/detalii/6878)
+- **Work Mode:** on-site
+- **Location:** Bucuresti
 - **Status:** scraped
 
 ### Casier Comercial Express
