@@ -10,11 +10,11 @@
 | Location | MUNICIPIUL BUCUREŞTI, SECTOR 2, STR GARA HERĂSTRĂU, NR.4C, GREEN COURT BUCHAREST. CLADIREA B, ET.4-7 |
 | Website | [https://carrefour.ro](https://carrefour.ro) |
 | Careers | [https://carrefour.ro/corporate/cariere/cauta](https://carrefour.ro/corporate/cariere/cauta) |
-| Last Scraped | 2026-11-24 |
+| Last Scraped | 2026-11-25 |
 
-## Current Job Listings (63)
+## Current Job Listings (62)
 
-_Generated: 2026-11-24T16:40:37.530Z_
+_Generated: 2026-11-25T16:23:51.880Z_
 
 ### Lucrator Universal Produse Proaspete Market
 
@@ -294,12 +294,6 @@ _Generated: 2026-11-24T16:40:37.530Z_
 - **URL:** [https://carrefour.ro/corporate/cariere/detalii/6840](https://carrefour.ro/corporate/cariere/detalii/6840)
 - **Work Mode:** on-site
 - **Location:** Iasi
-- **Status:** scraped
-
-### MANIPULANT MARFURI
-
-- **URL:** [https://mediere.anofm.ro/app/module/mediere/job/3455329](https://mediere.anofm.ro/app/module/mediere/job/3455329)
-- **Location:** România
 - **Status:** scraped
 
 ### MANIPULANT MARFURI
