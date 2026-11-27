@@ -7,14 +7,21 @@
 | CIF | 11588780 |
 | Brand | Carrefour |
 | Status | activ |
-| Location | Bucuresti |
+| Location | MUNICIPIUL BUCUREŞTI, SECTOR 2, STR GARA HERĂSTRĂU, NR.4C, GREEN COURT BUCHAREST. CLADIREA B, ET.4-7 |
 | Website | [https://carrefour.ro](https://carrefour.ro) |
 | Careers | [https://carrefour.ro/corporate/cariere/cauta](https://carrefour.ro/corporate/cariere/cauta) |
-| Last Scraped | 2026-11-26 |
+| Last Scraped | 2026-11-27 |
 
-## Current Job Listings (65)
+## Current Job Listings (64)
 
-_Generated: 2026-11-26T15:58:00.632Z_
+_Generated: 2026-11-27T15:46:37.495Z_
+
+### Lucrator Universal Produse Proaspete Hiper
+
+- **URL:** [https://carrefour.ro/corporate/cariere/detalii/6891](https://carrefour.ro/corporate/cariere/detalii/6891)
+- **Work Mode:** on-site
+- **Location:** Bucuresti
+- **Status:** scraped
 
 ### Brutar
 
@@ -303,6 +310,12 @@ _Generated: 2026-11-26T15:58:00.632Z_
 - **Location:** Iasi
 - **Status:** scraped
 
+### CASIER
+
+- **URL:** [https://mediere.anofm.ro/app/module/mediere/job/3458638](https://mediere.anofm.ro/app/module/mediere/job/3458638)
+- **Location:** România
+- **Status:** scraped
+
 ### UCENIC
 
 - **URL:** [https://mediere.anofm.ro/app/module/mediere/job/3458022](https://mediere.anofm.ro/app/module/mediere/job/3458022)
@@ -333,21 +346,9 @@ _Generated: 2026-11-26T15:58:00.632Z_
 - **Location:** România
 - **Status:** scraped
 
-### COFETAR
-
-- **URL:** [https://mediere.anofm.ro/app/module/mediere/job/3449465](https://mediere.anofm.ro/app/module/mediere/job/3449465)
-- **Location:** România
-- **Status:** scraped
-
 ### MANIPULANT MARFURI
 
 - **URL:** [https://mediere.anofm.ro/app/module/mediere/job/3448832](https://mediere.anofm.ro/app/module/mediere/job/3448832)
-- **Location:** România
-- **Status:** scraped
-
-### CASIER
-
-- **URL:** [https://mediere.anofm.ro/app/module/mediere/job/3448824](https://mediere.anofm.ro/app/module/mediere/job/3448824)
 - **Location:** România
 - **Status:** scraped
 
@@ -360,12 +361,6 @@ _Generated: 2026-11-26T15:58:00.632Z_
 ### CASIER
 
 - **URL:** [https://mediere.anofm.ro/app/module/mediere/job/3447992](https://mediere.anofm.ro/app/module/mediere/job/3447992)
-- **Location:** România
-- **Status:** scraped
-
-### LUCRATOR COMERCIAL
-
-- **URL:** [https://mediere.anofm.ro/app/module/mediere/job/3447974](https://mediere.anofm.ro/app/module/mediere/job/3447974)
 - **Location:** România
 - **Status:** scraped
 
